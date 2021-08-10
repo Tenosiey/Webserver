@@ -1,0 +1,16 @@
+h1 {
+    font-size: 75px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    -webkit-text-stroke-width: 5px;
+    -webkit-text-stroke-color: black;
+    position: absolute;
+    top: 50%;
+    left: 45%;
+}
+body {
+    background-image: url("/media/Jauch.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-color: #080b0f;
+}
